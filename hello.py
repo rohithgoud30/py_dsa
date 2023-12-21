@@ -1,5 +1,1 @@
-nums = [1] * 4
-
-print(nums)
-
-print(1)
+print("Hello Rohith")
